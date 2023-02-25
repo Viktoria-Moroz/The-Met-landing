@@ -1,6 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
-
-  The Metropolitan Museum of Art collects, studies, conserves, and presents significant works of art across time and cultures in order to connect all people to creativity, knowledge, ideas, and one another.
+The Metropolitan Museum of Art collects, studies, conserves, and presents significant works of art across time and cultures in order to connect all people to creativity, knowledge, ideas, and one another.
 
   Layout developed in html, scss and a little bit javascript.
 
