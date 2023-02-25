@@ -6,5 +6,4 @@
 
   https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET
 
-  - [DEMO LINK](https://Viktoria-Moroz.github.io/
-The-Met-landing/)
+  - [DEMO LINK](https://Viktoria-Moroz.github.io/The-Met_landing/)
